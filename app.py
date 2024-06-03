@@ -26,7 +26,7 @@ NETWORK_TEST_RESULTS = Info('wyebot_network_test_results', 'Network test results
 
 # Wyebot API details
 BASE_URL = "https://wip.wyebot.com/external_api"
-API_KEY = "L1BzcLsf+UkDoBuy8Gr8GL1LxRQ1BG2O"
+API_KEY = "your_api_key_here"
 
 def get_locations():
     url = f"{BASE_URL}/org/get_locations"
